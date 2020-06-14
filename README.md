@@ -14,4 +14,4 @@ This repository contains:
      b) "empty.zip" An empty zip file to test if a user uploads an empty file instead.
      
 
-Note: This repository is for marking purposes only for our FYP. User Guide was submited to the project lecturer. 
+**Note: This repository is for marking purposes only for our FYP. User Guide was submited to the project lecturer.**
