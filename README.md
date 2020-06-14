@@ -1,7 +1,7 @@
 # FIT3162FYP
 
 
-## Lung Cancer Detection System for Final Project Submission 
+## Lung Cancer Detection System for Final Year Project Submission 
 
 This repository contains: 
 
